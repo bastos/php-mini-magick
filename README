@@ -18,3 +18,13 @@ Mogrify example:
  } else {
      print 'error :\\';
  }
+
+This example is equal to : shell# mogrify -resize 50% rose.jpg
+
+@category   Images
+@package    phpMiniMagick
+@author     Tiago Bastos <comechao@gmail.com>
+@copyright  2007 Tiago Bastos
+@license    http://www.php.net/license/3_0.txt  PHP License 3.0
+@version   1.0
+@link       http://tiago.zusee.com
