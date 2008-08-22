@@ -5,19 +5,11 @@
 *
 * A port for Ruby phpMiniMagick
 *
-* PHP versions 5
-*
-* LICENSE: This source file is subject to version 3.0 of the PHP license
-* that is available through the world-wide-web at the following URI:
-* http://www.php.net/license/3_0.txt.  If you did not receive a copy of
-* the PHP License and are unable to obtain it through the web, please
-* send a note to license@php.net so we can mail you a copy immediately.
-*
 * @category   Images
 * @package    phpMiniMagick
 * @author     Tiago Bastos <comechao@gmail.com>
-* @copyright  2007 Tiago Bastos
-* @license    http://www.php.net/license/3_0.txt  PHP License 3.0
+* @copyright  2008 Tiago Bastos
+* @license   http://www.opensource.org/licenses/bsd-license.php BSD License
 * @version   1.0
 * @link       http://tiago.zusee.com
 * @since      1
