@@ -1,0 +1,20 @@
+Convert example:
+
+ $t = new pMagick('./rose.jpg',false);
+ if ($t->resize('50%','images/rose_50.png')){
+      print 'ok';
+ } else {
+     print 'error :\\';
+ }
+
+This example is equal to: shell# convert rose.jpg -resize 50% rose_59.png
+
+
+Mogrify example:
+
+ $t = new pMagick('./rose.jpg');
+ if ($t->resize('50%'){
+      print 'ok';
+ } else {
+     print 'error :\\';
+ }
